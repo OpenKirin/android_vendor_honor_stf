@@ -1,0 +1,12 @@
+
+gsm.fastdormancy.mode=3
+ro.product.locale.language=zh
+ro.product.locale.region=CN
+ro.config.hw_optb=156
+ro.config.hw_pop_unsupport_lte=true
+ro.config.enable_rms=true
+ro.sys.ping_bf_dorecovery=true
+ro.config.hw_nlp=com.amap.android.ams
+ro.product.locale=zh-Hans-CN
+ro.config.hw_aqv_enabled=false
+ro.setupwizard.mode=DISABLED

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DTS2017022704139 fuzhang 00369726 20170227 created -->
+<!-- This is the standard set of features for devices that support the CN GMSCore. -->
+<permissions>
+    <feature name="cn.google.services" />
+    <feature name="com.google.android.feature.services_updater" />
+</permissions>

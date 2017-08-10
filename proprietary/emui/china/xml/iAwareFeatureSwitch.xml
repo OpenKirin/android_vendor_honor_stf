@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- !!!!!!!!!!!!iaware feature switch china xml, warnning!!!!!!!!!!!!  -->
+<!-- version's value must be int like "2" -->
+<!-- upon the item config, no allowed add any item -->
+<!-- the version code must be the latest, if not the featureswitch xml can't work!!!-->
+<config name="FeatureSwitch" version="6">
+    <!-- featureid: 1 memory; 2 cpu; 4 soft resource; 5 app hiber  7 IO 8 f2fsdefrag; 2003 preload; 2004 pre-recog; 2005 cocos;-->
+    <!-- switch: 1 open; 0 close -->
+    <item>
+        <featureid>1</featureid>
+        <switch>1</switch>
+    </item>
+    <item>
+        <featureid>2</featureid>
+        <switch>1</switch>
+    </item>
+    <item>
+        <featureid>4</featureid>
+        <switch>1</switch>
+    </item>
+    <item>
+        <featureid>5</featureid>
+        <switch>1</switch>
+    </item>
+    <item>
+        <featureid>7</featureid>
+        <switch>1</switch>
+    </item>
+    <item>
+        <featureid>8</featureid>
+        <switch>1</switch>
+    </item>
+    <item>
+        <featureid>2003</featureid>
+        <switch>1</switch>
+    </item>
+    <item>
+        <featureid>2004</featureid>
+        <switch>1</switch>
+    </item>
+    <item>
+        <featureid>2005</featureid>
+        <switch>0</switch>
+    </item>
+    <item>
+        <featureid>2006</featureid>
+        <switch>1</switch>
+    </item>
+</config>

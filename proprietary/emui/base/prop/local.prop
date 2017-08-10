@@ -1,0 +1,59 @@
+dalvik.vm.stack-trace-file=/data/anr/traces.txt
+ro.build.version.emui=EmotionUI_5.1
+ro.config.ringtone=Huawei_Tune_Living.ogg
+ro.config.ringtone2=Huawei_Tune_Clean.ogg
+ro.config.alarm_alert=Aegean_Sea.ogg
+ro.config.notification_sound=Bongo.ogg
+ro.config.hw_enable_merge=true
+ro.config.app_big_icon_size=192
+ro.config.helix_enable=true
+ro.config.huawei_smallwindow=0,0,1080,1346
+ro.config.hw.security_volume=10
+ro.config.hw_eapsim=true
+ro.config.hw_multiscreen=true
+ro.config.hw_omacp=1
+ro.config.hw_RemindWifiToPdp=true
+ro.config.hw_wifipro_enable=true
+ro.config.hw_simpleui_enable=1
+ro.config.hw_singlehand=1
+ro.config.hw_vcardBase64=true
+ro.config.hw_voicemail_sim=true
+ro.config.switchPrimaryVolume=true
+ro.huawei.cust.oma=false
+ro.huawei.cust.oma_drm=false
+ro.config.hwtheme=1
+ro.config.hw_allow_rs_mms=true
+ro.config.hw_watermark=false
+ro.config.hw_hungtasklist=whitelist,system_server,SurfaceFlinger
+ro.config.hw_power_saving=true
+ro.config.attach_ip_type=IPV4V6
+fw.show_multiuserui=1
+fw.max_users=4
+ro.config.fp_navigation=true
+ro.com.google.clientidbase=android-huawei
+ro.config.updatelocation=true
+# DTS2016060606663 shiyuanchang/00271386 20160704 begin
+ro.config.hw_support_clone_app=true
+# DTS2016060606663 shiyuanchang/00271386 20160704 end
+# AR0003N0CG zhangxin 329966 volte sim match begin
+ro.config.hw_volte_dyn=true
+# AR0003N0CG zhangxin 329966 volte sim match end
+# DTS2016071504271 jiacan 00373435 iaware switch begin
+ro.config.enable_iaware=true
+# DTS2016071504271 jiacan 00373435 iaware switch end
+# DTS2016092003327 xugang 00350031 perfhub fling switch begin
+ro.config.enable_perfhub_fling=false
+# DTS2016092003327 xugang 00350031 perfhub fling switch end
+#BEGIN PN: DTS2016092708075, Added by w00364765,2016/10/08
+ro.control.sleeplog=true
+#END PN: DTS2016092708075, Added by w00364765,2016/10/08
+#BEGIN PN: AR00055E33, Added by x00377846,2016/11/03
+ro.config.hw_OptiDBConfig=true
+#END PN: AR00055E33, Added by x00377846,2016/11/03
+ro.config.hw_eccNumUseRplmn=true
+
+ro.config.hw_em_solution_ver=B085
+
+ro.comp.system_version=System 5.1.0.78(055I)
+
+ro.confg.hw_systemversion=System 5.1.0.78(055I)
