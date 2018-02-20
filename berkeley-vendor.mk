@@ -110,7 +110,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libstagefright_amrnb_common.so:system/lib/vndk-compat/libstagefright_amrnb_common.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libstagefright_enc_common.so:system/lib/vndk-compat/libstagefright_enc_common.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libstagefright_foundation.so:system/lib/vndk-compat/libstagefright_foundation.so \
-    vendor/huawei/berkeley/proprietary/lib/vndk-compat/libstagefright_hwextendedmediadrm.so:system/lib/vndk-compat/libstagefright_hwextendedmediadrm.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libstagefright_omx.so:system/lib/vndk-compat/libstagefright_omx.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libstagefright_soft_aacdec.so:system/lib/vndk-compat/libstagefright_soft_aacdec.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libstagefright_soft_aacenc.so:system/lib/vndk-compat/libstagefright_soft_aacenc.so \
@@ -273,7 +272,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libstagefright_amrnb_common.so:system/lib64/vndk-compat/libstagefright_amrnb_common.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libstagefright_enc_common.so:system/lib64/vndk-compat/libstagefright_enc_common.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libstagefright_foundation.so:system/lib64/vndk-compat/libstagefright_foundation.so \
-    vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libstagefright_hwextendedmediadrm.so:system/lib64/vndk-compat/libstagefright_hwextendedmediadrm.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libstagefright_omx.so:system/lib64/vndk-compat/libstagefright_omx.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libstagefright_soft_aacdec.so:system/lib64/vndk-compat/libstagefright_soft_aacdec.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libstagefright_soft_aacenc.so:system/lib64/vndk-compat/libstagefright_soft_aacenc.so \
