@@ -1,3 +1,4 @@
+#
 # Copyright (C) 2018 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,8 +13,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := $(call my-dir)
+$(call inherit-product, vendor/honor/stf/stf-vendor-blobs.mk)
 
-ifneq ($(filter stf,$(TARGET_DEVICE)),)
-
-endif
